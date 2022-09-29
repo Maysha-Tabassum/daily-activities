@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
+import './Cart.js'
 
 const Cart = (props) => {
+    const [value, setValue ] = useState(0);
+
     const {cart} = props;
 
     let total = 0;
@@ -9,7 +12,8 @@ const Cart = (props) => {
     }
 
     const handleBreakTime = (value) =>{
-         console.log(value)
+         const newValue = value * 1;
+         setValue(newValue);
     }
     return (
         <div className='cart'>
@@ -30,11 +34,11 @@ const Cart = (props) => {
             <div className='total-time'>
                 <h5>Activity Details</h5>
                  <div>
-                    <h5>Total Task Time: {total} minutes</h5>
+                    <p>Total Task Time: {total} minutes</p>
                     
                  </div>
                  <div>
-                    <p>Break Time</p>
+                    <p>Break Time : {value}</p>
                     
                  </div>
             </div>
