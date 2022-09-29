@@ -29,7 +29,7 @@ const Body = () => {
                 }
             </div>
             <div className='cart-container'>
-                  <h1>total time required: {activity.length}</h1>
+                  <h1>total time required: {cart.length}</h1>
             </div>
         </div>
     );
