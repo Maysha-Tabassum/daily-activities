@@ -1,0 +1,15 @@
+.body-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.activities-container{
+    margin-top: 25px;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:45px;
+}
+@media screen and (max-width:1100px){
+    .activities-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

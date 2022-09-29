@@ -1,0 +1,56 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Morning Prayer",
+      "title": "Morning prayer for peace of mind and prosperity",
+      "body" : "this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-photo/lamp-mat-near-quran_23-2147868927.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Morning",
+      "duration": 15
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Breakfast And Coffee",
+      "title": "Starting my day with a good breakfast and coffee",
+      "body" :"this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-photo/traditional-full-english-breakfast-with-fried-eggs-sausage-tomato-beans-toast-bacon-plate_1150-37820.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Morning",
+      "duration": 30
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "University Classes",
+      "title": "Study can never be the second option",
+      "body" :"this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-photo/book-laptop-pencil-clock-wooden-table-library-education-learning-concept_1150-16628.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Morning",
+      "duration": 180
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Entertainment",
+      "title": "Netflix and Chill",
+      "body" : "this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-photo/film-concept-with-bucket-popcorn_23-2147681350.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Afternoon",
+      "duration": 60
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Coding Time",
+      "title": "Programming Hero , Modules practice",
+      "body" :"this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-photo/working-code_1098-19858.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Night",
+      "duration": 240
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Sleep",
+      "title": "Good sleep and good mood",
+      "body":"this is a description over this perticular activity. We all should spend our day with productiv works and also can keep check on that",
+      "img": "https://img.freepik.com/free-vector/depressed-sleepless-woman-lying-bed-night-person-suffering-from-sleep-disorder-insomnia-fever_74855-10580.jpg?size=626&ext=jpg&ga=GA1.2.848484883.1664410546",
+      "section": "Night",
+      "duration": 360
+    }
+]
