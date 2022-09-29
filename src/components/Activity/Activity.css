@@ -23,11 +23,21 @@
 .activity-name{
     font-family: 'Lato';
     font-style: normal;
-    font-weight: 400;
-    font-size: 21px;
+    font-weight: 900;
+    font-size: 28px;
     line-height: 25px;
     margin-top: 7px;
 
+}
+.activity-title{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+}
+.task-duration{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
 }
 .btn-cart{
     width: 100%;
@@ -47,6 +57,7 @@
     color: black;
 }
 .btn-cart .btn-text{
-    margin-right: 5px;
+    margin-top: 20px;
+    font-size:medium;
 }
 

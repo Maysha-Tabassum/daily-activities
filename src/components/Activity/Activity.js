@@ -10,12 +10,12 @@ const Activity = (props) => {
             <img src={img} alt=""/>
             <div className='activity-info'>
             <p className='activity-name'>{name}</p>
-            <p> ${title}</p>
-            <p><small>body: {body}</small></p>
-            <p><small>Duration: {duration} min</small></p>
+            <p className='activity-title'> {title}</p>
+            <p><small>{body}</small></p>
+            <p><small className='task-duration'>Duration: {duration} min</small></p>
             </div>
             <button onClick={()=>handleAddToCart(activity)} className='btn-cart'>
-                <p className='btn-text'>Add to cart</p>
+                <p className='btn-text'>Add to list</p>
             </button>
         </div>
     );
