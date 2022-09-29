@@ -21,6 +21,7 @@
     }
     .activities-container{
         grid-template-columns: repeat(2, 1fr);
+        padding-left: 70px;
     }
 }
 
