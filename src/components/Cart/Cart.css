@@ -1,6 +1,49 @@
 .cart{
     position: sticky;
     top: 0px;
-    padding: 30px 20px;
-    text-align: left;
+    padding: 30px 10px;
+    
+}
+.user-name{
+    font-weight: 500;
+}
+.total-time{
+    margin-top: 20px;
+}
+.btn{
+    padding: 10px;
+    background-color: #1C2B35;
+    border-radius: 50%;
+    color: white;
+    font-size: large;
+    margin-left: 3px;
+}
+.btn:hover{
+    background-color: white;
+    color: #1C2B35;
+}
+.task-time{
+    background-color: white;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+}
+.break-time{
+    background-color: white;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+}
+
+.complete-btn{
+    background-color: #1C2B35;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: medium;
+
 }
